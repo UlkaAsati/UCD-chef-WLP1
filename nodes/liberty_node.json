@@ -1,0 +1,1 @@
+{"run_list": [ "recipe[wlp]" ] ,"wlp_archive": {"sourcepath":"http://10.88.36.218:8088"}}
